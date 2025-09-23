@@ -1,0 +1,12 @@
+git clone https://github.com/julian-vargo/cssp1-group7.git
+cd cssp1-group7
+git checkout -b Riley_Branch 
+git branch
+ls
+vim README.md
+touch Rileys_Commands.txt
+Vim Rileys_Commands.txt
+Git add *
+git commit -m "Riley added his program and research interests as well as his commands"
+git push
+
