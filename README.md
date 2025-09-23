@@ -1,2 +1,7 @@
-# cssp1-group7
-Project 1 for Soc 273, group 7
+# Group Project
+
+## Degree Programs & Research Interests of Members:
+- Julian Vargo: Ph.D. in Hispanic Linguistics, phonetics & sociolinguistics
+- Riley VanMeter:
+- Niko Schwarz:
+- Regina Ebo:
