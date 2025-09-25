@@ -1,0 +1,17 @@
+git clone https://github.com/julian-vargo/cssp1-group7.git
+cd Cssp1-group7
+git pull
+git checkout -b Regina_branch
+git branch
+Vim README.md 
+I
+Regina Ebo: PhD in Psychology; emotions/emotion norms, emotion beliefs, and moral virtues
+esc
+:wq
+touch Regina_commands.txt
+vim Regina_commands.txt
+git status
+git add *
+git commit -m “make a new branch and edit readme.md”
+git push
+
