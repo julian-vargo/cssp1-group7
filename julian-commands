@@ -1,0 +1,9 @@
+cd css273
+git clone git@github.com:julian-vargo/cssp1-group7.git
+cd cssp1-group7
+echo "# Group Project
+## Degree Programs & Research Interests of Members:
+- Julian Vargo: Ph.D. in Hispanic Linguistics, phonetics & sociolinguistics" > README.md
+git add -A
+git status
+git commit -m "Initial commit"
