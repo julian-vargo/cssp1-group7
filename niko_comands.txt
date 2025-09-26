@@ -1,0 +1,42 @@
+git clone https://github.com/julian-vargo/cssp1-group7.git
+Cloning into 'cssp1-group7'...
+remote: Enumerating objects: 15, done.
+remote: Counting objects: 100% (15/15), done.
+remote: Compressing objects: 100% (10/10), done.
+remote: Total 15 (delta 2), reused 9 (delta 2), pack-reused 0 (from 0)
+Receiving objects: 100% (15/15), done.
+Resolving deltas: 100% (2/2), done.
+(CSS) nikolaischwarz@Nikolais-MacBook-Air ~ % git branch
+fatal: not a git repository (or any of the parent directories): .git
+(CSS) nikolaischwarz@Nikolais-MacBook-Air ~ % cd         
+(CSS) nikolaischwarz@Nikolais-MacBook-Air ~ % ls
+Applications
+Creative Cloud Files Company Account University of California Berkeley niko.andres@berkeley.edu 889C1E4965482F5D0A495FF2@845d757462d42564495fb4.e
+CSS_F25
+cssp1-group7
+Desktop
+Documents
+Downloads
+english_memphis_arpa.zip
+git-challenges
+Library
+miniconda3
+Movies
+Music
+newdir
+Pictures
+Public
+unknown-0.0-0.tar.bz2
+Zotero
+(CSS) nikolaischwarz@Nikolais-MacBook-Air ~ % cd cssp1-group7
+(CSS) nikolaischwarz@Nikolais-MacBook-Air cssp1-group7 % git branch niko
+(CSS) nikolaischwarz@Nikolais-MacBook-Air cssp1-group7 % git branch
+* main
+  niko
+(CSS) nikolaischwarz@Nikolais-MacBook-Air cssp1-group7 % git merge main
+Already up to date.
+(CSS) nikolaischwarz@Nikolais-MacBook-Air cssp1-group7 % ls
+README.md		Rileys_Commands.txt
+(CSS) nikolaischwarz@Nikolais-MacBook-Air cssp1-group7 % vim README.md
+(CSS) nikolaischwarz@Nikolais-MacBook-Air cssp1-group7 % touch niko_comands.txt
+(CSS) nikolaischwarz@Nikolais-MacBook-Air cssp1-group7 % vim niko_comands.txt
